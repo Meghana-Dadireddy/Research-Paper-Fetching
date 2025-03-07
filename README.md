@@ -46,6 +46,5 @@ BeautifulSoup (Docs) - For HTML parsing (if needed in future enhancements).
 
 This project integrates with Poetry for dependency management. To add new dependencies, use:
 
-poetry add <package-name>
+# poetry add <package-name>
 
-poetry add <package-name>
